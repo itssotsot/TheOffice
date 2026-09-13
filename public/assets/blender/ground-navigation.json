@@ -1,0 +1,456 @@
+{
+  "unitsPerMeter": 7.2,
+  "ground": -29.46,
+  "eyeHeight": 12.168,
+  "playerRadius": 1.6560000000000001,
+  "bounds": {
+    "minX": -172.8,
+    "maxX": 158.4,
+    "minZ": -318.96,
+    "maxZ": -28.08
+  },
+  "colliders": [
+    {
+      "name": "Ground lobby side wall",
+      "minX": -100.69200000000001,
+      "maxX": -99.468,
+      "minZ": -97.92,
+      "maxZ": -38.16
+    },
+    {
+      "name": "Ground lobby side wall",
+      "minX": -37.332,
+      "maxX": -36.108,
+      "minZ": -97.92,
+      "maxZ": -38.16
+    },
+    {
+      "name": "Ground lobby rear wall west",
+      "minX": -100.08,
+      "maxX": -84.24000000000001,
+      "minZ": -44.856,
+      "maxZ": -43.704
+    },
+    {
+      "name": "Ground lobby rear wall east",
+      "minX": -64.98,
+      "maxX": -36.684,
+      "minZ": -44.856,
+      "maxZ": -43.704
+    },
+    {
+      "name": "Ground lift shaft side",
+      "minX": -83.44800000000001,
+      "maxX": -82.44,
+      "minZ": -44.784000000000006,
+      "maxZ": -28.8
+    },
+    {
+      "name": "Ground lift shaft side",
+      "minX": -65.66400000000002,
+      "maxX": -64.656,
+      "minZ": -44.784000000000006,
+      "maxZ": -28.8
+    },
+    {
+      "name": "Ground lift shaft back",
+      "minX": -82.944,
+      "maxX": -65.16000000000001,
+      "minZ": -29.304000000000002,
+      "maxZ": -28.296000000000003
+    },
+    {
+      "name": "Curved security desk",
+      "minX": -60.263999999999996,
+      "maxX": -41.112,
+      "minZ": -82.368,
+      "maxZ": -69.624
+    },
+    {
+      "name": "Aggregate front wall",
+      "minX": -102.24,
+      "maxX": -86.86800000000001,
+      "minZ": -98.85600000000001,
+      "maxZ": -96.984
+    },
+    {
+      "name": "Aggregate front wall",
+      "minX": -61.23600000000002,
+      "maxX": 93.60000000000001,
+      "minZ": -98.85600000000001,
+      "maxZ": -96.984
+    },
+    {
+      "name": "Building side aggregate wall",
+      "minX": -103.176,
+      "maxX": -101.30399999999999,
+      "minZ": -97.92,
+      "maxZ": 0.0
+    },
+    {
+      "name": "Building side aggregate wall",
+      "minX": 92.664,
+      "maxX": 94.536,
+      "minZ": -97.92,
+      "maxZ": 0.0
+    },
+    {
+      "name": "Building back wall",
+      "minX": -102.24,
+      "maxX": 93.60000000000001,
+      "minZ": -0.8280000000000001,
+      "maxZ": 0.8280000000000001
+    },
+    {
+      "name": "Entrance fixed sidelight",
+      "minX": -86.724,
+      "maxX": -80.82,
+      "minZ": -98.568,
+      "maxZ": -97.272
+    },
+    {
+      "name": "Entrance fixed sidelight",
+      "minX": -67.284,
+      "maxX": -61.38,
+      "minZ": -98.568,
+      "maxZ": -97.272
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": -128.088,
+      "maxX": -115.27199999999999,
+      "minZ": -115.884,
+      "maxZ": -114.804
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": -109.008,
+      "maxX": -96.19199999999998,
+      "minZ": -115.884,
+      "maxZ": -114.804
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": -51.768,
+      "maxX": -38.952000000000005,
+      "minZ": -115.884,
+      "maxZ": -114.804
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": -32.687999999999995,
+      "maxX": -19.871999999999996,
+      "minZ": -115.884,
+      "maxZ": -114.804
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": -13.608000000000004,
+      "maxX": -0.7920000000000047,
+      "minZ": -115.884,
+      "maxZ": -114.804
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": 5.47200000000001,
+      "maxX": 18.28800000000001,
+      "minZ": -115.884,
+      "maxZ": -114.804
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": 24.552,
+      "maxX": 37.367999999999995,
+      "minZ": -115.884,
+      "maxZ": -114.804
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": 43.63199999999999,
+      "maxX": 56.447999999999986,
+      "minZ": -115.884,
+      "maxZ": -114.804
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": 62.71200000000001,
+      "maxX": 75.52800000000002,
+      "minZ": -115.884,
+      "maxZ": -114.804
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": 81.792,
+      "maxX": 94.608,
+      "minZ": -115.884,
+      "maxZ": -114.804
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": 100.87199999999999,
+      "maxX": 113.688,
+      "minZ": -115.884,
+      "maxZ": -114.804
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": -128.088,
+      "maxX": -115.27199999999999,
+      "minZ": -291.996,
+      "maxZ": -290.91599999999994
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": -109.008,
+      "maxX": -96.19199999999998,
+      "minZ": -291.996,
+      "maxZ": -290.91599999999994
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": -89.928,
+      "maxX": -77.11199999999998,
+      "minZ": -291.996,
+      "maxZ": -290.91599999999994
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": -70.848,
+      "maxX": -58.03199999999999,
+      "minZ": -291.996,
+      "maxZ": -290.91599999999994
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": -51.768,
+      "maxX": -38.952000000000005,
+      "minZ": -291.996,
+      "maxZ": -290.91599999999994
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": -32.687999999999995,
+      "maxX": -19.871999999999996,
+      "minZ": -291.996,
+      "maxZ": -290.91599999999994
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": -13.608000000000004,
+      "maxX": -0.7920000000000047,
+      "minZ": -291.996,
+      "maxZ": -290.91599999999994
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": 5.47200000000001,
+      "maxX": 18.28800000000001,
+      "minZ": -291.996,
+      "maxZ": -290.91599999999994
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": 24.552,
+      "maxX": 37.367999999999995,
+      "minZ": -291.996,
+      "maxZ": -290.91599999999994
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": 43.63199999999999,
+      "maxX": 56.447999999999986,
+      "minZ": -291.996,
+      "maxZ": -290.91599999999994
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": 62.71200000000001,
+      "maxX": 75.52800000000002,
+      "minZ": -291.996,
+      "maxZ": -290.91599999999994
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": 81.792,
+      "maxX": 94.608,
+      "minZ": -291.996,
+      "maxZ": -290.91599999999994
+    },
+    {
+      "name": "Concrete wheel stop",
+      "minX": 100.87199999999999,
+      "maxX": 113.688,
+      "minZ": -291.996,
+      "maxZ": -290.91599999999994
+    },
+    {
+      "name": "Lot perimeter curb",
+      "minX": -173.628,
+      "maxX": -171.972,
+      "minZ": -320.40000000000003,
+      "maxZ": -97.2
+    },
+    {
+      "name": "Lot perimeter curb",
+      "minX": 157.572,
+      "maxX": 159.22799999999998,
+      "minZ": -320.40000000000003,
+      "maxZ": -97.2
+    },
+    {
+      "name": "Back lot curb",
+      "minX": -172.8,
+      "maxX": 158.4,
+      "minZ": -320.148,
+      "maxZ": -318.492
+    },
+    {
+      "name": "Parked sedan",
+      "minX": -129.528,
+      "maxX": -115.27200000000002,
+      "minZ": -145.07999999999998,
+      "maxZ": -114.12
+    },
+    {
+      "name": "Parked brown sedan",
+      "minX": -52.488,
+      "maxX": -38.232,
+      "minZ": -145.07999999999998,
+      "maxZ": -114.12
+    },
+    {
+      "name": "Parked silver sedan",
+      "minX": -14.328,
+      "maxX": -0.07200000000000006,
+      "minZ": -145.07999999999998,
+      "maxZ": -114.12
+    },
+    {
+      "name": "Parked blue hatchback",
+      "minX": 42.912,
+      "maxX": 57.168000000000006,
+      "minZ": -145.07999999999998,
+      "maxZ": -114.12
+    },
+    {
+      "name": "Parked red sedan",
+      "minX": -147.528,
+      "maxX": -133.27200000000002,
+      "minZ": -292.67999999999995,
+      "maxZ": -261.71999999999997
+    },
+    {
+      "name": "Parked white sedan",
+      "minX": -89.928,
+      "maxX": -75.672,
+      "minZ": -292.67999999999995,
+      "maxZ": -261.71999999999997
+    },
+    {
+      "name": "Parked charcoal sedan",
+      "minX": 4.751999999999997,
+      "maxX": 19.008000000000003,
+      "minZ": -292.67999999999995,
+      "maxZ": -261.71999999999997
+    },
+    {
+      "name": "Parked green sedan",
+      "minX": 81.072,
+      "maxX": 95.328,
+      "minZ": -292.67999999999995,
+      "maxZ": -261.71999999999997
+    },
+    {
+      "name": "West unused building",
+      "minX": -129.6,
+      "maxX": -100.8,
+      "minZ": -97.2,
+      "maxZ": 0.0
+    },
+    {
+      "name": "East unused building",
+      "minX": -36.0,
+      "maxX": 93.60000000000001,
+      "minZ": -97.2,
+      "maxZ": 0.0
+    },
+    {
+      "name": "Behind lobby",
+      "minX": -100.8,
+      "maxX": -83.52,
+      "minZ": -43.92,
+      "maxZ": 0.0
+    },
+    {
+      "name": "Behind security",
+      "minX": -64.656,
+      "maxX": -36.72,
+      "minZ": -43.92,
+      "maxZ": 0.0
+    }
+  ],
+  "spawn": "ground-lobby",
+  "deskInteraction": {
+    "x": 9999,
+    "z": 9999,
+    "radius": 0
+  },
+  "deskReturn": {
+    "position": [
+      -74.052,
+      -17.292,
+      -57.6
+    ],
+    "yaw": 0
+  },
+  "landmarks": [
+    {
+      "id": "elevator",
+      "name": "Elevator",
+      "position": [
+        -74.052,
+        -17.292,
+        -36.72
+      ],
+      "yaw": 0,
+      "area": {
+        "minX": -82.944,
+        "maxX": -65.16000000000001,
+        "minZ": -45.36,
+        "maxZ": -28.8
+      }
+    },
+    {
+      "id": "ground-lobby",
+      "name": "Building lobby",
+      "position": [
+        -74.052,
+        -17.292,
+        -59.760000000000005
+      ],
+      "yaw": 0,
+      "area": {
+        "minX": -100.8,
+        "maxX": -36.0,
+        "minZ": -97.92,
+        "maxZ": -45.36
+      }
+    },
+    {
+      "id": "parking",
+      "name": "Parking lot",
+      "position": [
+        -74.052,
+        -17.292,
+        -165.6
+      ],
+      "yaw": 3.141592653589793,
+      "area": {
+        "minX": -172.8,
+        "maxX": 158.4,
+        "minZ": -319.68,
+        "maxZ": -97.92
+      }
+    }
+  ]
+}

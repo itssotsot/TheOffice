@@ -1,0 +1,49 @@
+{
+  "blender": "5.2.0 LTS",
+  "source": "assets/blender/office-props-v2.blend",
+  "generator": "scripts/build_assets.py",
+  "assets": [
+    {
+      "id": "stapler",
+      "file": "/assets/blender/stapler.glb",
+      "objects": 11,
+      "bytes": 167340,
+      "provenance": "original Blender geometry"
+    },
+    {
+      "id": "telephone",
+      "file": "/assets/blender/telephone.glb",
+      "objects": 43,
+      "bytes": 613016,
+      "provenance": "original Blender geometry"
+    },
+    {
+      "id": "calculator",
+      "file": "/assets/blender/calculator.glb",
+      "objects": 47,
+      "bytes": 618020,
+      "provenance": "original Blender geometry"
+    },
+    {
+      "id": "tape-dispenser",
+      "file": "/assets/blender/tape-dispenser.glb",
+      "objects": 29,
+      "bytes": 465644,
+      "provenance": "original Blender geometry"
+    },
+    {
+      "id": "mug",
+      "file": "/assets/blender/mug.glb",
+      "objects": 9,
+      "bytes": 364480,
+      "provenance": "original Blender geometry"
+    }
+  ],
+  "revision_generator": "scripts/update_mug.py",
+  "active_assets": [
+    "stapler",
+    "telephone",
+    "mug"
+  ],
+  "mug_text": "World's Best Assistant Regional Manager."
+}

@@ -1,0 +1,3041 @@
+{
+  "unitsPerMeter": 7.2,
+  "ground": -5.34,
+  "eyeHeight": 12.168,
+  "playerRadius": 1.728,
+  "bounds": {
+    "minX": -100.8,
+    "maxX": 136.07999999999998,
+    "minZ": -64.8,
+    "maxZ": 50.544
+  },
+  "colliders": [
+    {
+      "name": "North exterior",
+      "minX": -43.2,
+      "maxX": 136.08,
+      "minZ": -65.304,
+      "maxZ": -64.296
+    },
+    {
+      "name": "Annex east exterior",
+      "minX": 135.57600000000002,
+      "maxX": 136.584,
+      "minZ": -64.80000000000001,
+      "maxZ": 28.799999999999983
+    },
+    {
+      "name": "Annex front exterior",
+      "minX": 90.72,
+      "maxX": 136.08,
+      "minZ": 28.296000000000003,
+      "maxZ": 29.304000000000002
+    },
+    {
+      "name": "Accounting projection east",
+      "minX": -0.5040000000000056,
+      "maxX": 0.5039999999999984,
+      "minZ": 44.64,
+      "maxZ": 50.54400000000001
+    },
+    {
+      "name": "Accounting south wall",
+      "minX": -43.2,
+      "maxX": -13.140000000000002,
+      "minZ": 50.03999999999999,
+      "maxZ": 51.048
+    },
+    {
+      "name": "Accounting south wall",
+      "minX": -4.8599999999999985,
+      "maxX": 0.0,
+      "minZ": 50.03999999999999,
+      "maxZ": 51.048
+    },
+    {
+      "name": "Main west wall",
+      "minX": -43.70400000000001,
+      "maxX": -42.696000000000005,
+      "minZ": -2.52,
+      "maxZ": 50.544
+    },
+    {
+      "name": "Main west wall",
+      "minX": -43.70400000000001,
+      "maxX": -42.696000000000005,
+      "minZ": -64.8,
+      "maxZ": -39.24000000000001
+    },
+    {
+      "name": "Michael west partition",
+      "minX": -29.304000000000002,
+      "maxX": -28.296000000000003,
+      "minZ": -64.8,
+      "maxZ": -30.239999999999988
+    },
+    {
+      "name": "Michael conference partition",
+      "minX": 2.7359999999999944,
+      "maxX": 3.8438918918918903,
+      "minZ": -64.8,
+      "maxZ": -30.239999999999995
+    },
+    {
+      "name": "Michael front left return",
+      "minX": -28.8,
+      "maxX": -24.480000000000004,
+      "minZ": -30.744000000000003,
+      "maxZ": -29.736
+    },
+    {
+      "name": "Michael glazed frontage",
+      "minX": -24.479999999999997,
+      "maxX": -6.552,
+      "minZ": -30.744000000000003,
+      "maxZ": -29.736
+    },
+    {
+      "name": "Michael glazed frontage glass",
+      "minX": -24.48,
+      "maxX": -6.5520000000000005,
+      "minZ": -30.816000000000003,
+      "maxZ": -29.664
+    },
+    {
+      "name": "Michael glazed frontage right door post",
+      "minX": 1.0800000000000003,
+      "maxX": 3.2400000000000007,
+      "minZ": -30.744000000000003,
+      "maxZ": -29.736
+    },
+    {
+      "name": "Michael glazed frontage open door",
+      "minX": 0.9180000000000003,
+      "maxX": 1.2420000000000002,
+      "minZ": -37.674,
+      "maxZ": -30.438000000000002
+    },
+    {
+      "name": "Stairwell west wall",
+      "minX": 58.68000000000001,
+      "maxX": 59.68800000000001,
+      "minZ": -64.80000000000001,
+      "maxZ": -38.16
+    },
+    {
+      "name": "Stairwell east wall",
+      "minX": 83.376,
+      "maxX": 84.384,
+      "minZ": -64.8,
+      "maxZ": -30.239999999999995
+    },
+    {
+      "name": "Stair landing nib",
+      "minX": 59.184000000000005,
+      "maxX": 65.52,
+      "minZ": -38.664,
+      "maxZ": -37.656
+    },
+    {
+      "name": "Stairwell drop",
+      "minX": 59.616,
+      "maxX": 83.376,
+      "minZ": -64.08,
+      "maxZ": -31.680000000000003
+    },
+    {
+      "name": "Break room west wall",
+      "minX": 96.69600000000001,
+      "maxX": 97.70400000000001,
+      "minZ": -44.64000000000001,
+      "maxZ": -30.240000000000002
+    },
+    {
+      "name": "Break room west wall",
+      "minX": 96.69599999999998,
+      "maxX": 97.704,
+      "minZ": -64.80000000000001,
+      "maxZ": -52.12800000000001
+    },
+    {
+      "name": "Break room front wall",
+      "minX": 97.2,
+      "maxX": 101.592,
+      "minZ": -30.744000000000003,
+      "maxZ": -29.736
+    },
+    {
+      "name": "Break room front wall",
+      "minX": 109.368,
+      "maxX": 136.08,
+      "minZ": -30.744000000000003,
+      "maxZ": -29.736
+    },
+    {
+      "name": "chair",
+      "minX": -32.29331687735254,
+      "maxX": -28.405316877352536,
+      "minZ": -2.2564493577388376,
+      "maxZ": 1.6315506422611625
+    },
+    {
+      "name": "Reception counter",
+      "minX": -36.91692466101319,
+      "maxX": -36.630451430139644,
+      "minZ": -9.508468031562883,
+      "maxZ": -9.119236149539375
+    },
+    {
+      "name": "Reception counter",
+      "minX": -36.630451430139644,
+      "maxX": -36.3439781992661,
+      "minZ": -9.794941262436431,
+      "maxZ": -9.013112806358047
+    },
+    {
+      "name": "Reception counter",
+      "minX": -36.3439781992661,
+      "maxX": -36.05750496839255,
+      "minZ": -10.081414493309977,
+      "maxZ": -8.90351970499283
+    },
+    {
+      "name": "Reception counter",
+      "minX": -36.05750496839255,
+      "maxX": -35.771031737519,
+      "minZ": -10.367887724183525,
+      "maxZ": -8.790326935066652
+    },
+    {
+      "name": "Reception counter",
+      "minX": -35.771031737519,
+      "maxX": -35.484558506645456,
+      "minZ": -10.65436095505707,
+      "maxZ": -8.673204560065793
+    },
+    {
+      "name": "Reception counter",
+      "minX": -35.484558506645456,
+      "maxX": -35.19808527577191,
+      "minZ": -10.940834185930617,
+      "maxZ": -8.552284636967684
+    },
+    {
+      "name": "Reception counter",
+      "minX": -35.19808527577191,
+      "maxX": -34.91161204489836,
+      "minZ": -11.227307416804166,
+      "maxZ": -8.42744409987688
+    },
+    {
+      "name": "Reception counter",
+      "minX": -34.91161204489836,
+      "maxX": -34.625138814024815,
+      "minZ": -11.513780647677713,
+      "maxZ": -8.298554507287916
+    },
+    {
+      "name": "Reception counter",
+      "minX": -34.625138814024815,
+      "maxX": -34.33866558315127,
+      "minZ": -11.80025387855126,
+      "maxZ": -8.165481745331393
+    },
+    {
+      "name": "Reception counter",
+      "minX": -34.33866558315127,
+      "maxX": -34.05219235227772,
+      "minZ": -12.086727109424807,
+      "maxZ": -8.028041693213959
+    },
+    {
+      "name": "Reception counter",
+      "minX": -34.05219235227772,
+      "maxX": -33.765719121404175,
+      "minZ": -12.373200340298354,
+      "maxZ": -7.886043536467885
+    },
+    {
+      "name": "Reception counter",
+      "minX": -33.765719121404175,
+      "maxX": -33.47924589053063,
+      "minZ": -12.6596735711719,
+      "maxZ": -7.739445796342259
+    },
+    {
+      "name": "Reception counter",
+      "minX": -33.47924589053063,
+      "maxX": -33.19277265965708,
+      "minZ": -12.946146802045448,
+      "maxZ": -7.5880900004490615
+    },
+    {
+      "name": "Reception counter",
+      "minX": -33.19277265965708,
+      "maxX": -32.906299428783534,
+      "minZ": -13.232620032918994,
+      "maxZ": -7.431810311888147
+    },
+    {
+      "name": "Reception counter",
+      "minX": -32.906299428783534,
+      "maxX": -32.61982619790999,
+      "minZ": -13.519093263792541,
+      "maxZ": -7.270433096415051
+    },
+    {
+      "name": "Reception counter",
+      "minX": -32.61982619790999,
+      "maxX": -32.33335296703644,
+      "minZ": -13.805566494666088,
+      "maxZ": -7.103776458719281
+    },
+    {
+      "name": "Reception counter",
+      "minX": -32.33335296703644,
+      "maxX": -32.04687973616289,
+      "minZ": -13.95678180751446,
+      "maxZ": -6.931649745210214
+    },
+    {
+      "name": "Reception counter",
+      "minX": -32.04687973616289,
+      "maxX": -31.760406505289343,
+      "minZ": -13.908655575306486,
+      "maxZ": -6.753853010454078
+    },
+    {
+      "name": "Reception counter",
+      "minX": -31.760406505289343,
+      "maxX": -31.473933274415796,
+      "minZ": -13.80433831009826,
+      "maxZ": -6.570176444123563
+    },
+    {
+      "name": "Reception counter",
+      "minX": -31.473933274415796,
+      "maxX": -31.18746004354225,
+      "minZ": -13.696606654207685,
+      "maxZ": -6.380399755008178
+    },
+    {
+      "name": "Reception counter",
+      "minX": -31.18746004354225,
+      "maxX": -30.9009868126687,
+      "minZ": -13.585353431807828,
+      "maxZ": -6.184184497199552
+    },
+    {
+      "name": "Reception counter",
+      "minX": -30.9009868126687,
+      "maxX": -30.614513581795155,
+      "minZ": -13.47025710058291,
+      "maxZ": -5.981259506937726
+    },
+    {
+      "name": "Reception counter",
+      "minX": -30.614513581795155,
+      "maxX": -30.328040350921608,
+      "minZ": -13.351370234053777,
+      "maxZ": -5.771452827753624
+    },
+    {
+      "name": "Reception counter",
+      "minX": -30.328040350921608,
+      "maxX": -30.04156712004806,
+      "minZ": -13.228627502555348,
+      "maxZ": -5.554491281102758
+    },
+    {
+      "name": "Reception counter",
+      "minX": -30.04156712004806,
+      "maxX": -29.755093889174514,
+      "minZ": -13.101903271771429,
+      "maxZ": -5.330087035598173
+    },
+    {
+      "name": "Reception counter",
+      "minX": -29.755093889174514,
+      "maxX": -29.468620658300967,
+      "minZ": -12.971066389456864,
+      "maxZ": -5.09759167956465
+    },
+    {
+      "name": "Reception counter",
+      "minX": -29.468620658300967,
+      "maxX": -29.18214742742742,
+      "minZ": -12.835944926552406,
+      "maxZ": -4.856850830581718
+    },
+    {
+      "name": "Reception counter",
+      "minX": -29.18214742742742,
+      "maxX": -28.895674196553873,
+      "minZ": -12.696320759287136,
+      "maxZ": -4.607631622193786
+    },
+    {
+      "name": "Reception counter",
+      "minX": -28.895674196553873,
+      "maxX": -28.609200965680326,
+      "minZ": -12.55217657835912,
+      "maxZ": -4.349019490794841
+    },
+    {
+      "name": "Reception counter",
+      "minX": -28.609200965680326,
+      "maxX": -28.32272773480678,
+      "minZ": -12.40335754199048,
+      "maxZ": -4.080982440773096
+    },
+    {
+      "name": "Reception counter",
+      "minX": -28.32272773480678,
+      "maxX": -28.036254503933232,
+      "minZ": -12.249701654171389,
+      "maxZ": -3.8027246718540937
+    },
+    {
+      "name": "Reception counter",
+      "minX": -28.036254503933232,
+      "maxX": -27.749781273059686,
+      "minZ": -12.091039346643399,
+      "maxZ": -3.5138636411515813
+    },
+    {
+      "name": "Reception counter",
+      "minX": -27.749781273059686,
+      "maxX": -27.46330804218614,
+      "minZ": -11.927193031226954,
+      "maxZ": -3.2134989689841396
+    },
+    {
+      "name": "Reception counter",
+      "minX": -27.46330804218614,
+      "maxX": -27.17683481131259,
+      "minZ": -11.757976620009117,
+      "maxZ": -2.9013405865009854
+    },
+    {
+      "name": "Reception counter",
+      "minX": -27.17683481131259,
+      "maxX": -26.890361580439045,
+      "minZ": -11.583195010666913,
+      "maxZ": -2.576155281781314
+    },
+    {
+      "name": "Reception counter",
+      "minX": -26.890361580439045,
+      "maxX": -26.603888349565498,
+      "minZ": -11.402643533934551,
+      "maxZ": -2.237292006119454
+    },
+    {
+      "name": "Reception counter",
+      "minX": -26.603888349565498,
+      "maxX": -26.31741511869195,
+      "minZ": -11.216107359925628,
+      "maxZ": -1.883881322278115
+    },
+    {
+      "name": "Reception counter",
+      "minX": -26.31741511869195,
+      "maxX": -26.030941887818404,
+      "minZ": -11.02336085969088,
+      "maxZ": -1.5147861914570642
+    },
+    {
+      "name": "Reception counter",
+      "minX": -26.030941887818404,
+      "maxX": -25.744468656944857,
+      "minZ": -10.824032010738875,
+      "maxZ": -1.1287479090206374
+    },
+    {
+      "name": "Reception counter",
+      "minX": -25.744468656944857,
+      "maxX": -25.45799542607131,
+      "minZ": -10.617876651929123,
+      "maxZ": -0.7243693840514784
+    },
+    {
+      "name": "Reception counter",
+      "minX": -25.45799542607131,
+      "maxX": -25.171522195197763,
+      "minZ": -10.404709446156138,
+      "maxZ": -0.30009558351689075
+    },
+    {
+      "name": "Reception counter",
+      "minX": -25.171522195197763,
+      "maxX": -24.885048964324216,
+      "minZ": -10.184250194246461,
+      "maxZ": 0.145809436216727
+    },
+    {
+      "name": "Reception counter",
+      "minX": -24.885048964324216,
+      "maxX": -24.59857573345067,
+      "minZ": -9.956192447339314,
+      "maxZ": 0.6154450813539671
+    },
+    {
+      "name": "Reception counter",
+      "minX": -24.59857573345067,
+      "maxX": -24.312102502577122,
+      "minZ": -9.719760545429391,
+      "maxZ": 1.1117705325084866
+    },
+    {
+      "name": "Reception counter",
+      "minX": -24.312102502577122,
+      "maxX": -24.025629271703576,
+      "minZ": -9.475029918596022,
+      "maxZ": 1.636997915083011
+    },
+    {
+      "name": "Reception counter",
+      "minX": -24.025629271703576,
+      "maxX": -23.73915604083003,
+      "minZ": -9.221546709101082,
+      "maxZ": 2.1952295669028588
+    },
+    {
+      "name": "Reception counter",
+      "minX": -23.73915604083003,
+      "maxX": -23.45268280995648,
+      "minZ": -8.958436149025426,
+      "maxZ": 2.7907089240829355
+    },
+    {
+      "name": "Reception counter",
+      "minX": -23.45268280995648,
+      "maxX": -23.166209579082935,
+      "minZ": -8.685816366285488,
+      "maxZ": 3.428591430420704
+    },
+    {
+      "name": "Reception counter",
+      "minX": -23.166209579082935,
+      "maxX": -22.879736348209388,
+      "minZ": -8.402431918984924,
+      "maxZ": 4.115975237707889
+    },
+    {
+      "name": "Reception counter",
+      "minX": -22.879736348209388,
+      "maxX": -22.59326311733584,
+      "minZ": -8.108399051871645,
+      "maxZ": 4.861677947197795
+    },
+    {
+      "name": "Reception counter",
+      "minX": -22.59326311733584,
+      "maxX": -22.306789886462294,
+      "minZ": -7.802404115130548,
+      "maxZ": 5.2369246610131865
+    },
+    {
+      "name": "Reception counter",
+      "minX": -22.306789886462294,
+      "maxX": -22.020316655588747,
+      "minZ": -7.484138604706184,
+      "maxZ": 5.085709348164816
+    },
+    {
+      "name": "Reception counter",
+      "minX": -22.020316655588747,
+      "maxX": -21.7338434247152,
+      "minZ": -7.152813861306016,
+      "maxZ": 4.799236117291269
+    },
+    {
+      "name": "Reception counter",
+      "minX": -21.7338434247152,
+      "maxX": -21.447370193841653,
+      "minZ": -6.807242215085506,
+      "maxZ": 4.512762886417722
+    },
+    {
+      "name": "Reception counter",
+      "minX": -21.447370193841653,
+      "maxX": -21.160896962968106,
+      "minZ": -6.446469791041208,
+      "maxZ": 4.226289655544175
+    },
+    {
+      "name": "Reception counter",
+      "minX": -21.160896962968106,
+      "maxX": -20.87442373209456,
+      "minZ": -6.06948855356558,
+      "maxZ": 3.9398164246706275
+    },
+    {
+      "name": "Reception counter",
+      "minX": -20.87442373209456,
+      "maxX": -20.587950501221012,
+      "minZ": -5.674986013399563,
+      "maxZ": 3.6533431937970806
+    },
+    {
+      "name": "Reception counter",
+      "minX": -20.587950501221012,
+      "maxX": -20.301477270347466,
+      "minZ": -5.26150404744736,
+      "maxZ": 3.3668699629235337
+    },
+    {
+      "name": "Reception counter",
+      "minX": -20.301477270347466,
+      "maxX": -20.01500403947392,
+      "minZ": -4.827418123040285,
+      "maxZ": 3.0803967320499863
+    },
+    {
+      "name": "Reception counter",
+      "minX": -20.01500403947392,
+      "maxX": -19.72853080860037,
+      "minZ": -4.370273956104451,
+      "maxZ": 2.7939235011764394
+    },
+    {
+      "name": "Reception counter",
+      "minX": -19.72853080860037,
+      "maxX": -19.442057577726825,
+      "minZ": -3.8883810891959234,
+      "maxZ": 2.5074502703028925
+    },
+    {
+      "name": "Reception counter",
+      "minX": -19.442057577726825,
+      "maxX": -19.155584346853278,
+      "minZ": -3.3788988188279503,
+      "maxZ": 2.220977039429345
+    },
+    {
+      "name": "Reception counter",
+      "minX": -19.155584346853278,
+      "maxX": -18.86911111597973,
+      "minZ": -2.838559803443164,
+      "maxZ": 1.9345038085557986
+    },
+    {
+      "name": "Reception counter",
+      "minX": -18.86911111597973,
+      "maxX": -18.582637885106184,
+      "minZ": -2.2632464848259133,
+      "maxZ": 1.6480305776822513
+    },
+    {
+      "name": "Reception counter",
+      "minX": -18.582637885106184,
+      "maxX": -18.296164654232637,
+      "minZ": -1.6484902493225582,
+      "maxZ": 1.3615573468087043
+    },
+    {
+      "name": "Reception counter",
+      "minX": -18.296164654232637,
+      "maxX": -18.00969142335909,
+      "minZ": -0.9883108999470164,
+      "maxZ": 1.0750841159351574
+    },
+    {
+      "name": "Reception counter",
+      "minX": -18.00969142335909,
+      "maxX": -17.723218192485543,
+      "minZ": -0.2745710791665132,
+      "maxZ": 0.7886108850616105
+    },
+    {
+      "name": "Reception sofa upholstered base",
+      "minX": -48.384000000000015,
+      "maxX": -42.912000000000006,
+      "minZ": -26.136000000000003,
+      "maxZ": -10.295999999999996
+    },
+    {
+      "name": "Reception sofa upholstered base",
+      "minX": -25.956,
+      "maxX": -19.404,
+      "minZ": -28.512,
+      "maxZ": -23.040000000000003
+    },
+    {
+      "name": "Reception walnut end table top",
+      "minX": -47.84400000000001,
+      "maxX": -43.164,
+      "minZ": -9.468,
+      "maxZ": -4.788
+    },
+    {
+      "name": "Reception walnut end table top",
+      "minX": -18.936,
+      "maxX": -14.04,
+      "minZ": -27.791999999999998,
+      "maxZ": -23.328
+    },
+    {
+      "name": "Reception open mail shelf",
+      "minX": -41.976,
+      "maxX": -35.784000000000006,
+      "minZ": 9.900000000000002,
+      "maxZ": 13.572
+    },
+    {
+      "name": "Reception low filing carcass",
+      "minX": -35.64,
+      "maxX": -29.592000000000002,
+      "minZ": 9.791999999999998,
+      "maxZ": 13.68
+    },
+    {
+      "name": "Reception low filing carcass",
+      "minX": -29.520000000000003,
+      "maxX": -23.472,
+      "minZ": 9.791999999999998,
+      "maxZ": 13.68
+    },
+    {
+      "name": "Reception open file drawer",
+      "minX": -29.520000000000003,
+      "maxX": -23.472,
+      "minZ": 13.608,
+      "maxZ": 15.336000000000002
+    },
+    {
+      "name": "Reception narrow copier cupboard",
+      "minX": -23.400000000000002,
+      "maxX": -19.728,
+      "minZ": 9.791999999999998,
+      "maxZ": 13.68
+    },
+    {
+      "name": "Bookcase",
+      "minX": -41.688,
+      "maxX": -39.096000000000004,
+      "minZ": 2.411999999999999,
+      "maxZ": 11.411999999999999
+    },
+    {
+      "name": "Reception copier body",
+      "minX": -19.584,
+      "maxX": -13.751999999999999,
+      "minZ": 9.504000000000001,
+      "maxZ": 13.751999999999999
+    },
+    {
+      "name": "Michael executive desktop",
+      "minX": -20.88,
+      "maxX": -6.624,
+      "minZ": -50.4,
+      "maxZ": -43.056000000000004
+    },
+    {
+      "name": "Michael executive chair",
+      "minX": -15.839999999999998,
+      "maxX": -11.664,
+      "minZ": -55.512,
+      "maxZ": -51.336
+    },
+    {
+      "name": "Michael visitor chair",
+      "minX": -25.272,
+      "maxX": -21.528000000000002,
+      "minZ": -38.736,
+      "maxZ": -34.992000000000004
+    },
+    {
+      "name": "Michael visitor chair",
+      "minX": -16.992000000000004,
+      "maxX": -13.248000000000001,
+      "minZ": -38.736,
+      "maxZ": -34.992000000000004
+    },
+    {
+      "name": "Michael tall walnut cabinet",
+      "minX": -5.760000000000001,
+      "maxX": 1.4400000000000002,
+      "minZ": -62.964000000000006,
+      "maxZ": -59.148
+    },
+    {
+      "name": "Michael rear chest carcass",
+      "minX": -24.804000000000002,
+      "maxX": -18.252000000000002,
+      "minZ": -63.144,
+      "maxZ": -59.4
+    },
+    {
+      "name": "Michael maple long credenza",
+      "minX": -27.971999999999998,
+      "maxX": -24.588,
+      "minZ": -58.824,
+      "maxZ": -39.38400000000001
+    },
+    {
+      "name": "Michael right low cabinet",
+      "minX": -2.3760000000000003,
+      "maxX": 1.6560000000000004,
+      "minZ": -51.264,
+      "maxZ": -45.36
+    },
+    {
+      "name": "Vending machine cabinet",
+      "minX": 130.644,
+      "maxX": 135.46800000000002,
+      "minZ": -63.035999999999994,
+      "maxZ": -56.772
+    },
+    {
+      "name": "Vending machine cabinet",
+      "minX": 130.644,
+      "maxX": 135.46800000000002,
+      "minZ": -56.123999999999995,
+      "maxZ": -49.86
+    },
+    {
+      "name": "Vending machine cabinet",
+      "minX": 130.644,
+      "maxX": 135.46800000000002,
+      "minZ": -49.211999999999996,
+      "maxZ": -42.948
+    },
+    {
+      "name": "Vending machine cabinet",
+      "minX": 130.644,
+      "maxX": 135.46800000000002,
+      "minZ": -42.3,
+      "maxZ": -36.036
+    },
+    {
+      "name": "cafe table",
+      "minX": 106.55999999999999,
+      "maxX": 112.176,
+      "minZ": -58.248,
+      "maxZ": -52.632000000000005
+    },
+    {
+      "name": "cafe chair",
+      "minX": 112.39199999999998,
+      "maxX": 115.56,
+      "minZ": -57.024,
+      "maxZ": -53.856
+    },
+    {
+      "name": "cafe chair",
+      "minX": 105.45766915000385,
+      "maxX": 108.62566915000386,
+      "minZ": -61.00166876151802,
+      "maxZ": -57.83366876151801
+    },
+    {
+      "name": "cafe chair",
+      "minX": 105.52487813526206,
+      "maxX": 108.69287813526206,
+      "minZ": -53.00777884071819,
+      "maxZ": -49.83977884071819
+    },
+    {
+      "name": "cafe table",
+      "minX": 114.84,
+      "maxX": 120.456,
+      "minZ": -51.624,
+      "maxZ": -46.008
+    },
+    {
+      "name": "cafe chair",
+      "minX": 120.67200000000001,
+      "maxX": 123.84000000000002,
+      "minZ": -50.4,
+      "maxZ": -47.232000000000006
+    },
+    {
+      "name": "cafe chair",
+      "minX": 113.73766915000384,
+      "maxX": 116.90566915000386,
+      "minZ": -54.37766876151801,
+      "maxZ": -51.20966876151801
+    },
+    {
+      "name": "cafe chair",
+      "minX": 113.80487813526206,
+      "maxX": 116.97287813526208,
+      "minZ": -46.383778840718186,
+      "maxZ": -43.215778840718194
+    },
+    {
+      "name": "cafe table",
+      "minX": 122.61600000000001,
+      "maxX": 128.23200000000003,
+      "minZ": -44.568,
+      "maxZ": -38.952000000000005
+    },
+    {
+      "name": "cafe chair",
+      "minX": 128.44800000000004,
+      "maxX": 131.616,
+      "minZ": -43.344,
+      "maxZ": -40.176
+    },
+    {
+      "name": "cafe chair",
+      "minX": 121.51366915000386,
+      "maxX": 124.68166915000388,
+      "minZ": -47.321668761518005,
+      "maxZ": -44.15366876151801
+    },
+    {
+      "name": "cafe chair",
+      "minX": 121.58087813526205,
+      "maxX": 124.74887813526206,
+      "minZ": -39.32777884071818,
+      "maxZ": -36.15977884071819
+    },
+    {
+      "name": "KELLY KAPOOR maple desktop",
+      "minX": 103.24799999999999,
+      "maxX": 113.472,
+      "minZ": -26.496,
+      "maxZ": -21.024
+    },
+    {
+      "name": "chair",
+      "minX": 107.27999999999999,
+      "maxX": 111.16799999999999,
+      "minZ": -19.944,
+      "maxZ": -16.056
+    },
+    {
+      "name": "TOBY FLENDERSON maple desktop",
+      "minX": 124.488,
+      "maxX": 129.96,
+      "minZ": -17.639999999999993,
+      "maxZ": -6.8399999999999945
+    },
+    {
+      "name": "chair",
+      "minX": 119.51999999999998,
+      "maxX": 123.408,
+      "minZ": -13.319999999999984,
+      "maxZ": -9.431999999999993
+    },
+    {
+      "name": "ANNEX SUPPORT maple desktop",
+      "minX": 123.912,
+      "maxX": 129.38400000000001,
+      "minZ": -4.536000000000006,
+      "maxZ": 6.263999999999991
+    },
+    {
+      "name": "chair",
+      "minX": 118.944,
+      "maxX": 122.832,
+      "minZ": -0.21599999999999808,
+      "maxZ": 3.6720000000000073
+    },
+    {
+      "name": "ANNEX WEST maple desktop",
+      "minX": 103.24799999999999,
+      "maxX": 108.72,
+      "minZ": -16.487999999999992,
+      "maxZ": -5.687999999999995
+    },
+    {
+      "name": "chair",
+      "minX": 98.27999999999999,
+      "maxX": 102.16799999999999,
+      "minZ": -12.168,
+      "maxZ": -8.280000000000008
+    },
+    {
+      "name": "ANNEX EAST maple desktop",
+      "minX": 108.86399999999999,
+      "maxX": 114.33600000000001,
+      "minZ": -16.487999999999992,
+      "maxZ": -5.687999999999995
+    },
+    {
+      "name": "chair",
+      "minX": 115.41600000000001,
+      "maxX": 119.304,
+      "minZ": -13.895999999999994,
+      "maxZ": -10.008000000000003
+    },
+    {
+      "name": "Steel filing cabinet",
+      "minX": 115.52400000000002,
+      "maxX": 121.35600000000001,
+      "minZ": -29.556000000000004,
+      "maxZ": -25.884
+    },
+    {
+      "name": "Steel filing cabinet",
+      "minX": 121.644,
+      "maxX": 127.47600000000001,
+      "minZ": -29.556000000000004,
+      "maxZ": -25.884
+    },
+    {
+      "name": "Steel filing cabinet",
+      "minX": 127.76400000000001,
+      "maxX": 133.59600000000003,
+      "minZ": -29.556000000000004,
+      "maxZ": -25.884
+    },
+    {
+      "name": "Cubicle back",
+      "minX": 94.60799999999999,
+      "maxX": 124.56,
+      "minZ": 11.016,
+      "maxZ": 12.024000000000001
+    },
+    {
+      "name": "Cubicle side",
+      "minX": 113.616,
+      "maxX": 114.624,
+      "minZ": -2.519999999999996,
+      "maxZ": 11.519999999999996
+    },
+    {
+      "name": "Cubicle return",
+      "minX": 114.12,
+      "maxX": 125.64000000000003,
+      "minZ": -3.024,
+      "maxZ": -2.016
+    },
+    {
+      "name": "RYAN HOWARD maple desktop",
+      "minX": 99.612,
+      "maxX": 110.772,
+      "minZ": 14.904000000000002,
+      "maxZ": 20.376
+    },
+    {
+      "name": "chair",
+      "minX": 104.112,
+      "maxX": 107.99999999999999,
+      "minZ": 21.456,
+      "maxZ": 25.344
+    },
+    {
+      "name": "Annex long counter",
+      "minX": 117.61200000000001,
+      "maxX": 134.388,
+      "minZ": 24.408,
+      "maxZ": 28.584000000000003
+    },
+    {
+      "name": "chair",
+      "minX": 125.64000000000003,
+      "maxX": 129.52800000000002,
+      "minZ": 18.648,
+      "maxZ": 22.536
+    },
+    {
+      "name": "Sales southeast return",
+      "minX": 50.61599999999999,
+      "maxX": 51.623999999999995,
+      "minZ": 36.0,
+      "maxZ": 44.63999999999999
+    },
+    {
+      "name": "Sales front cream partition",
+      "minX": 0.0,
+      "maxX": 16.92,
+      "minZ": 44.136,
+      "maxZ": 45.144000000000005
+    },
+    {
+      "name": "Sales front cream partition",
+      "minX": 24.119999999999997,
+      "maxX": 38.88,
+      "minZ": 44.136,
+      "maxZ": 45.144000000000005
+    },
+    {
+      "name": "Sales front cream partition",
+      "minX": 45.72,
+      "maxX": 51.12,
+      "minZ": 44.136,
+      "maxZ": 45.144000000000005
+    },
+    {
+      "name": "Sales front window sill",
+      "minX": 16.92,
+      "maxX": 24.12,
+      "minZ": 44.136,
+      "maxZ": 45.144000000000005
+    },
+    {
+      "name": "Sales front glazing",
+      "minX": 16.92,
+      "maxX": 24.12,
+      "minZ": 44.136,
+      "maxZ": 45.144000000000005
+    },
+    {
+      "name": "Sales front window sill",
+      "minX": 38.88,
+      "maxX": 45.72,
+      "minZ": 44.136,
+      "maxZ": 45.144000000000005
+    },
+    {
+      "name": "Sales front glazing",
+      "minX": 38.88,
+      "maxX": 45.72,
+      "minZ": 44.136,
+      "maxZ": 45.144000000000005
+    },
+    {
+      "name": "JIM HALPERT maple desktop",
+      "minX": -11.664,
+      "maxX": 0.5759999999999992,
+      "minZ": -12.024,
+      "maxZ": -6.263999999999999
+    },
+    {
+      "name": "chair",
+      "minX": -8.352,
+      "maxX": -4.4639999999999995,
+      "minZ": -16.991999999999997,
+      "maxZ": -13.103999999999997
+    },
+    {
+      "name": "chair",
+      "minX": 4.680000000000001,
+      "maxX": 8.568000000000001,
+      "minZ": -2.304,
+      "maxZ": 1.5840000000000005
+    },
+    {
+      "name": "Dwight jelly desk",
+      "minX": -3.3156000000000003,
+      "maxX": 2.8836,
+      "minZ": -6.3072,
+      "maxZ": 5.587199999999999
+    },
+    {
+      "name": "Sales open storage",
+      "minX": -3.9240000000000004,
+      "maxX": 3.492,
+      "minZ": 5.724,
+      "maxZ": 8.676
+    },
+    {
+      "name": "PHYLLIS VANCE maple desktop",
+      "minX": 22.176,
+      "maxX": 34.416,
+      "minZ": -14.543999999999997,
+      "maxZ": -8.783999999999999
+    },
+    {
+      "name": "chair",
+      "minX": 25.488,
+      "maxX": 29.375999999999998,
+      "minZ": -19.511999999999997,
+      "maxZ": -15.623999999999995
+    },
+    {
+      "name": "STANLEY HUDSON maple desktop",
+      "minX": 22.320000000000004,
+      "maxX": 28.080000000000002,
+      "minZ": -8.676000000000002,
+      "maxZ": 3.2040000000000015
+    },
+    {
+      "name": "chair",
+      "minX": 17.352000000000004,
+      "maxX": 21.240000000000002,
+      "minZ": -3.815999999999998,
+      "maxZ": 0.0720000000000045
+    },
+    {
+      "name": "ANDY BERNARD maple desktop",
+      "minX": 28.224,
+      "maxX": 33.983999999999995,
+      "minZ": -8.676000000000002,
+      "maxZ": 3.2040000000000015
+    },
+    {
+      "name": "chair",
+      "minX": 35.06399999999999,
+      "maxX": 38.952,
+      "minZ": -5.544000000000003,
+      "maxZ": -1.655999999999997
+    },
+    {
+      "name": "Sales open storage",
+      "minX": 22.428,
+      "maxX": 30.852,
+      "minZ": 3.3480000000000008,
+      "maxZ": 6.300000000000001
+    },
+    {
+      "name": "Sales island white filing unit",
+      "minX": 30.852000000000004,
+      "maxX": 33.804,
+      "minZ": 3.0600000000000005,
+      "maxZ": 6.300000000000001
+    },
+    {
+      "name": "MEREDITH PALMER maple desktop",
+      "minX": 1.0079999999999973,
+      "maxX": 6.767999999999999,
+      "minZ": 25.956000000000003,
+      "maxZ": 37.836
+    },
+    {
+      "name": "chair",
+      "minX": -3.960000000000006,
+      "maxX": -0.07200000000000095,
+      "minZ": 30.816,
+      "maxZ": 34.704
+    },
+    {
+      "name": "CREED BRATTON maple desktop",
+      "minX": 6.912000000000003,
+      "maxX": 12.672000000000004,
+      "minZ": 25.956000000000003,
+      "maxZ": 37.836
+    },
+    {
+      "name": "chair",
+      "minX": 13.752000000000002,
+      "maxX": 17.640000000000008,
+      "minZ": 29.087999999999997,
+      "maxZ": 32.976
+    },
+    {
+      "name": "SALES WEST maple desktop",
+      "minX": 29.159999999999997,
+      "maxX": 34.919999999999995,
+      "minZ": 24.012,
+      "maxZ": 35.892
+    },
+    {
+      "name": "chair",
+      "minX": 24.191999999999993,
+      "maxX": 28.08,
+      "minZ": 28.87200000000001,
+      "maxZ": 32.760000000000005
+    },
+    {
+      "name": "SALES EAST maple desktop",
+      "minX": 35.064,
+      "maxX": 40.824000000000005,
+      "minZ": 24.012000000000004,
+      "maxZ": 35.892
+    },
+    {
+      "name": "chair",
+      "minX": 41.904,
+      "maxX": 45.79200000000001,
+      "minZ": 27.14400000000001,
+      "maxZ": 31.032000000000007
+    },
+    {
+      "name": "Sales shallow return cabinet",
+      "minX": 1.1519999999999992,
+      "maxX": 6.768000000000001,
+      "minZ": 22.608000000000004,
+      "maxZ": 25.92
+    },
+    {
+      "name": "Sales shallow return cabinet",
+      "minX": 29.304000000000002,
+      "maxX": 34.919999999999995,
+      "minZ": 20.664,
+      "maxZ": 23.976000000000003
+    },
+    {
+      "name": "Sales conference credenza",
+      "minX": 15.624,
+      "maxX": 32.904,
+      "minZ": -29.808000000000003,
+      "maxZ": -26.496000000000002
+    },
+    {
+      "name": "Sales rolling cart",
+      "minX": 30.96,
+      "maxX": 34.848,
+      "minZ": -26.064,
+      "maxZ": -22.752000000000002
+    },
+    {
+      "name": "Bookcase",
+      "minX": 34.92,
+      "maxX": 42.264,
+      "minZ": -29.448,
+      "maxZ": -26.856
+    },
+    {
+      "name": "Sales side bookcase",
+      "minX": 47.519999999999996,
+      "maxX": 50.256,
+      "minZ": 15.48,
+      "maxZ": 25.560000000000006
+    },
+    {
+      "name": "Sales low cooler cabinet",
+      "minX": 47.088,
+      "maxX": 50.544000000000004,
+      "minZ": -3.2399999999999998,
+      "maxZ": 1.9440000000000002
+    },
+    {
+      "name": "Sales water cooler body",
+      "minX": 46.51199999999999,
+      "maxX": 48.959999999999994,
+      "minZ": -6.047999999999997,
+      "maxZ": -3.599999999999997
+    },
+    {
+      "name": "Outside annex",
+      "minX": 90.72,
+      "maxX": 136.07999999999998,
+      "minZ": 28.8,
+      "maxZ": 66.24
+    },
+    {
+      "name": "Lobby alcove gap",
+      "minX": -86.4,
+      "maxX": -82.944,
+      "minZ": -36.0,
+      "maxZ": -28.8
+    },
+    {
+      "name": "Outside front",
+      "minX": 0.0,
+      "maxX": 51.12,
+      "minZ": 44.64,
+      "maxZ": 66.24
+    },
+    {
+      "name": "Conference glazed frontage",
+      "minX": 3.2399999999999998,
+      "maxX": 3.744,
+      "minZ": -30.744000000000003,
+      "maxZ": -29.736
+    },
+    {
+      "name": "Conference glazed frontage glass",
+      "minX": 3.24,
+      "maxX": 3.744,
+      "minZ": -30.816000000000003,
+      "maxZ": -29.664
+    },
+    {
+      "name": "Conference glazed frontage",
+      "minX": 11.376000000000001,
+      "maxX": 43.2,
+      "minZ": -30.744000000000003,
+      "maxZ": -29.736
+    },
+    {
+      "name": "Conference glazed frontage glass",
+      "minX": 11.376000000000001,
+      "maxX": 43.2,
+      "minZ": -30.816000000000003,
+      "maxZ": -29.664
+    },
+    {
+      "name": "Conference glazed frontage open door",
+      "minX": 3.582,
+      "maxX": 3.906,
+      "minZ": -37.674,
+      "maxZ": -30.438000000000002
+    },
+    {
+      "name": "Conference east partition",
+      "minX": 42.696000000000005,
+      "maxX": 43.70400000000001,
+      "minZ": -53.748,
+      "maxZ": -30.239999999999995
+    },
+    {
+      "name": "Conference east partition",
+      "minX": 42.696000000000005,
+      "maxX": 43.70400000000001,
+      "minZ": -64.80000000000001,
+      "maxZ": -61.16400000000001
+    },
+    {
+      "name": "Conference corridor front return",
+      "minX": 43.2,
+      "maxX": 51.12,
+      "minZ": -30.744000000000003,
+      "maxZ": -29.736
+    },
+    {
+      "name": "Conference east open door",
+      "minX": 43.39800262451172,
+      "maxX": 50.417999267578125,
+      "minZ": -53.90999984741211,
+      "maxZ": -53.586002349853516
+    },
+    {
+      "name": "Conference seminar chair",
+      "minX": 12.995999999999999,
+      "maxX": 16.524,
+      "minZ": -39.528000000000006,
+      "maxZ": -36.072,
+      "zone": "Conference room"
+    },
+    {
+      "name": "Conference seminar chair",
+      "minX": 12.995999999999999,
+      "maxX": 16.524,
+      "minZ": -47.088,
+      "maxZ": -43.632,
+      "zone": "Conference room"
+    },
+    {
+      "name": "Conference seminar chair",
+      "minX": 12.995999999999999,
+      "maxX": 16.524,
+      "minZ": -54.648,
+      "maxZ": -51.192,
+      "zone": "Conference room"
+    },
+    {
+      "name": "Conference seminar chair",
+      "minX": 20.195999999999998,
+      "maxX": 23.724,
+      "minZ": -39.528000000000006,
+      "maxZ": -36.072,
+      "zone": "Conference room"
+    },
+    {
+      "name": "Conference seminar chair",
+      "minX": 20.195999999999998,
+      "maxX": 23.724,
+      "minZ": -47.088,
+      "maxZ": -43.632,
+      "zone": "Conference room"
+    },
+    {
+      "name": "Conference seminar chair",
+      "minX": 20.195999999999998,
+      "maxX": 23.724,
+      "minZ": -54.648,
+      "maxZ": -51.192,
+      "zone": "Conference room"
+    },
+    {
+      "name": "Conference seminar chair",
+      "minX": 27.395999999999997,
+      "maxX": 30.924,
+      "minZ": -39.528000000000006,
+      "maxZ": -36.072,
+      "zone": "Conference room"
+    },
+    {
+      "name": "Conference seminar chair",
+      "minX": 27.395999999999997,
+      "maxX": 30.924,
+      "minZ": -47.088,
+      "maxZ": -43.632,
+      "zone": "Conference room"
+    },
+    {
+      "name": "Conference seminar chair",
+      "minX": 27.395999999999997,
+      "maxX": 30.924,
+      "minZ": -54.648,
+      "maxZ": -51.192,
+      "zone": "Conference room"
+    },
+    {
+      "name": "Conference seminar chair",
+      "minX": 34.596,
+      "maxX": 38.124,
+      "minZ": -39.528000000000006,
+      "maxZ": -36.072,
+      "zone": "Conference room"
+    },
+    {
+      "name": "Conference seminar chair",
+      "minX": 34.596,
+      "maxX": 38.124,
+      "minZ": -47.088,
+      "maxZ": -43.632,
+      "zone": "Conference room"
+    },
+    {
+      "name": "Conference seminar chair",
+      "minX": 34.596,
+      "maxX": 38.124,
+      "minZ": -54.648,
+      "maxZ": -51.192,
+      "zone": "Conference room"
+    },
+    {
+      "name": "Conference television cart",
+      "minX": 4.6080000000000005,
+      "maxX": 9.287999999999993,
+      "minZ": -53.352000000000004,
+      "maxZ": -48.6,
+      "zone": "Conference room"
+    },
+    {
+      "name": "Conference AV cart",
+      "minX": 37.296,
+      "maxX": 41.328,
+      "minZ": -62.208000000000006,
+      "maxZ": -58.608000000000004,
+      "zone": "Conference room"
+    },
+    {
+      "name": "Conference front plant pot",
+      "minX": 39.24,
+      "maxX": 41.544000000000004,
+      "minZ": -35.136,
+      "maxZ": -32.832,
+      "zone": "Conference room"
+    },
+    {
+      "name": "Conference corridor plant pot",
+      "minX": 45.576,
+      "maxX": 47.88,
+      "minZ": -61.776,
+      "maxZ": -59.472,
+      "zone": "Conference room"
+    },
+    {
+      "name": "ANGELA MARTIN maple desktop",
+      "minX": -37.800000000000004,
+      "maxX": -24.984,
+      "minZ": 24.912000000000003,
+      "maxZ": 30.816000000000006,
+      "zone": "Accounting"
+    },
+    {
+      "name": "chair",
+      "minX": -34.2,
+      "maxX": -30.312000000000005,
+      "minZ": 19.944,
+      "maxZ": 23.832000000000004,
+      "zone": "Accounting"
+    },
+    {
+      "name": "OSCAR MARTINEZ maple desktop",
+      "minX": -37.800000000000004,
+      "maxX": -24.984,
+      "minZ": 31.032,
+      "maxZ": 36.93600000000001,
+      "zone": "Accounting"
+    },
+    {
+      "name": "chair",
+      "minX": -32.472,
+      "maxX": -28.584000000000003,
+      "minZ": 38.016000000000005,
+      "maxZ": 41.903999999999996,
+      "zone": "Accounting"
+    },
+    {
+      "name": "KEVIN MALONE maple desktop",
+      "minX": -24.732,
+      "maxX": -18.827999999999996,
+      "minZ": 24.551999999999996,
+      "maxZ": 37.22399999999999,
+      "zone": "Accounting"
+    },
+    {
+      "name": "chair",
+      "minX": -17.747999999999998,
+      "maxX": -13.859999999999992,
+      "minZ": 28.079999999999995,
+      "maxZ": 31.968,
+      "zone": "Accounting"
+    },
+    {
+      "name": "Accounting low filing cabinet",
+      "minX": -42.264,
+      "maxX": -39.384,
+      "minZ": 37.08000000000001,
+      "maxZ": 43.128,
+      "zone": "Accounting"
+    },
+    {
+      "name": "Accounting low filing cabinet",
+      "minX": -42.264,
+      "maxX": -39.384,
+      "minZ": 30.816000000000006,
+      "maxZ": 36.864000000000004,
+      "zone": "Accounting"
+    },
+    {
+      "name": "Accounting low filing cabinet",
+      "minX": -42.263999999999996,
+      "maxX": -39.38399999999999,
+      "minZ": 24.552000000000003,
+      "maxZ": 30.599999999999998,
+      "zone": "Accounting"
+    },
+    {
+      "name": "Accounting floor lamp",
+      "minX": -42.048,
+      "maxX": -39.744,
+      "minZ": 43.56,
+      "maxZ": 45.864000000000004,
+      "zone": "Accounting"
+    },
+    {
+      "name": "Accounting compact south storage",
+      "minX": -41.760000000000005,
+      "maxX": -33.696,
+      "minZ": 46.87200000000001,
+      "maxZ": 49.89600000000001,
+      "zone": "Accounting"
+    },
+    {
+      "name": "Accounting compact south storage",
+      "minX": -33.624,
+      "maxX": -24.695999999999998,
+      "minZ": 46.87200000000001,
+      "maxZ": 49.89600000000001,
+      "zone": "Accounting"
+    },
+    {
+      "name": "Accounting compact south storage",
+      "minX": -24.408,
+      "maxX": -13.32,
+      "minZ": 46.87200000000001,
+      "maxZ": 49.89600000000001,
+      "zone": "Accounting"
+    },
+    {
+      "name": "Reception widened entrance",
+      "minX": -50.184000000000005,
+      "maxX": -49.17600000000001,
+      "minZ": -27.360000000000003,
+      "maxZ": -2.5200000000000067
+    },
+    {
+      "name": "Reception widened entrance",
+      "minX": -50.184000000000005,
+      "maxX": -49.176,
+      "minZ": -40.68000000000001,
+      "maxZ": -40.68000000000001
+    },
+    {
+      "name": "Reception waiting south return",
+      "minX": -49.68000000000001,
+      "maxX": -43.2,
+      "minZ": -3.024,
+      "maxZ": -2.016
+    },
+    {
+      "name": "Lobby widened approach edge",
+      "minX": -65.16000000000001,
+      "maxX": -49.68000000000001,
+      "minZ": -27.863999999999997,
+      "maxZ": -26.856
+    },
+    {
+      "name": "Lobby widened approach return",
+      "minX": -65.66400000000002,
+      "maxX": -64.656,
+      "minZ": -28.799999999999997,
+      "maxZ": -27.36
+    },
+    {
+      "name": "Reception open entrance leaf",
+      "minX": -56.232000000000006,
+      "maxX": -49.752,
+      "minZ": -27.81,
+      "maxZ": -27.486
+    },
+    {
+      "name": "Reception open entrance leaf",
+      "minX": -56.232000000000006,
+      "maxX": -49.752,
+      "minZ": -40.554,
+      "maxZ": -40.230000000000004
+    },
+    {
+      "name": "Outside lobby west",
+      "minX": -100.8,
+      "maxX": -65.16000000000001,
+      "minZ": -28.8,
+      "maxZ": 66.24
+    },
+    {
+      "name": "Outside widened lobby approach",
+      "minX": -65.16000000000001,
+      "maxX": -49.68000000000001,
+      "minZ": -27.36,
+      "maxZ": 66.24
+    },
+    {
+      "name": "Outside waiting alcove",
+      "minX": -49.68000000000001,
+      "maxX": -43.2,
+      "minZ": -2.52,
+      "maxZ": 66.24
+    },
+    {
+      "name": "Lobby rear paneled wall",
+      "minX": -100.8,
+      "maxX": -98.244,
+      "minZ": -65.304,
+      "maxZ": -64.296
+    },
+    {
+      "name": "Lobby rear paneled wall",
+      "minX": -90.108,
+      "maxX": -43.2,
+      "minZ": -65.304,
+      "maxZ": -64.296
+    },
+    {
+      "name": "Lobby exit oak door leaf",
+      "minX": -98.046,
+      "maxX": -90.30600000000001,
+      "minZ": -64.8,
+      "maxZ": -64.4832
+    },
+    {
+      "name": "Lobby west glazing pier",
+      "minX": -101.304,
+      "maxX": -100.29599999999999,
+      "minZ": -30.887999999999995,
+      "maxZ": -28.8
+    },
+    {
+      "name": "Lobby west window sill wall",
+      "minX": -101.304,
+      "maxX": -100.296,
+      "minZ": -39.528000000000006,
+      "maxZ": -30.88800000000001
+    },
+    {
+      "name": "Lobby west glazing pier",
+      "minX": -101.304,
+      "maxX": -100.29599999999999,
+      "minZ": -41.688,
+      "maxZ": -39.52799999999999
+    },
+    {
+      "name": "Lobby west window sill wall",
+      "minX": -101.304,
+      "maxX": -100.296,
+      "minZ": -50.328,
+      "maxZ": -41.68800000000001
+    },
+    {
+      "name": "Lobby west glazing pier",
+      "minX": -101.304,
+      "maxX": -100.29599999999999,
+      "minZ": -52.48800000000001,
+      "maxZ": -50.327999999999996
+    },
+    {
+      "name": "Lobby west window sill wall",
+      "minX": -101.304,
+      "maxX": -100.296,
+      "minZ": -61.128,
+      "maxZ": -52.48800000000001
+    },
+    {
+      "name": "Lobby west glazing pier",
+      "minX": -101.304,
+      "maxX": -100.29599999999999,
+      "minZ": -64.79999999999998,
+      "maxZ": -61.12800000000001
+    },
+    {
+      "name": "Lobby south glazed alcove edge",
+      "minX": -100.8,
+      "maxX": -86.4,
+      "minZ": -29.304000000000002,
+      "maxZ": -28.296000000000003
+    },
+    {
+      "name": "Lobby plant alcove return",
+      "minX": -86.90400000000001,
+      "maxX": -85.896,
+      "minZ": -36.00000000000001,
+      "maxZ": -28.800000000000004
+    },
+    {
+      "name": "Lobby recessed corner",
+      "minX": -86.4,
+      "maxX": -82.944,
+      "minZ": -36.504000000000005,
+      "maxZ": -35.496
+    },
+    {
+      "name": "Elevator shaft west wall",
+      "minX": -83.44800000000001,
+      "maxX": -82.44,
+      "minZ": -44.71200000000001,
+      "maxZ": -28.800000000000004
+    },
+    {
+      "name": "Elevator shaft east wall",
+      "minX": -65.66400000000002,
+      "maxX": -64.656,
+      "minZ": -44.71200000000002,
+      "maxZ": -28.800000000000004
+    },
+    {
+      "name": "Elevator shaft south back",
+      "minX": -82.944,
+      "maxX": -65.16000000000001,
+      "minZ": -29.304000000000002,
+      "maxZ": -28.296000000000003
+    },
+    {
+      "name": "Elevator entrance plaster pier",
+      "minX": -82.944,
+      "maxX": -80.532,
+      "minZ": -45.216,
+      "maxZ": -44.208
+    },
+    {
+      "name": "Elevator entrance plaster pier",
+      "minX": -67.57200000000002,
+      "maxX": -65.16000000000001,
+      "minZ": -45.216,
+      "maxZ": -44.208
+    },
+    {
+      "name": "Lobby waste bin",
+      "minX": -87.80399999999999,
+      "maxX": -85.572,
+      "minZ": -62.53199999999999,
+      "maxZ": -60.300000000000004
+    },
+    {
+      "name": "Lobby alcove plant",
+      "minX": -97.38498240000001,
+      "maxX": -95.2870176,
+      "minZ": -34.384982400000005,
+      "maxZ": -32.2870176
+    },
+    {
+      "name": "Lobby entrance plant",
+      "minX": -48.541824,
+      "maxX": -45.346176,
+      "minZ": -49.117824,
+      "maxZ": -45.922176
+    },
+    {
+      "name": "Lobby reception sidelight sill wall",
+      "minX": -49.68000000000001,
+      "maxX": -43.2,
+      "minZ": -41.184000000000005,
+      "maxZ": -40.176
+    },
+    {
+      "name": "Lobby west glazing",
+      "minX": -101.376,
+      "maxX": -100.224,
+      "minZ": -64.8,
+      "maxZ": -28.8
+    },
+    {
+      "name": "Lobby reception sidelight",
+      "minX": -49.68000000000001,
+      "maxX": -43.2,
+      "minZ": -41.25600000000001,
+      "maxZ": -40.104000000000006
+    },
+    {
+      "name": "Kitchen west entrance lower wall",
+      "minX": 50.616,
+      "maxX": 51.623999999999995,
+      "minZ": -7.128,
+      "maxZ": 3.0861099338513306e-17,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "Kitchen west entrance lower wall",
+      "minX": 50.616,
+      "maxX": 51.623999999999995,
+      "minZ": -30.240000000000002,
+      "maxZ": -15.192,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "Kitchen west entrance open door",
+      "minX": 43.41599655151367,
+      "maxX": 51.119998931884766,
+      "minZ": -7.886715888977051,
+      "maxZ": -6.876001834869385,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "Kitchen east entrance lower wall",
+      "minX": 90.216,
+      "maxX": 91.224,
+      "minZ": -3.456000000000003,
+      "maxZ": 3.0861099338513306e-17,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "Kitchen east entrance lower wall",
+      "minX": 90.216,
+      "maxX": 91.224,
+      "minZ": -30.24000000000001,
+      "maxZ": -11.376000000000005,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "Kitchen east entrance open door",
+      "minX": 90.72000122070312,
+      "maxX": 98.27999877929688,
+      "minZ": -3.7080013751983643,
+      "maxZ": -2.6972780227661133,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "Kitchen cabinet run",
+      "minX": 54.072,
+      "maxX": 58.53600000000001,
+      "minZ": -29.736,
+      "maxZ": -24.7968,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "Kitchen cabinet run",
+      "minX": 58.53600000000002,
+      "maxX": 63.504000000000005,
+      "minZ": -29.736,
+      "maxZ": -24.7968,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "Kitchen cabinet run",
+      "minX": 63.504000000000005,
+      "maxX": 69.984,
+      "minZ": -29.736,
+      "maxZ": -24.7968,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "Kitchen cabinet run",
+      "minX": 69.98400000000001,
+      "maxX": 78.264,
+      "minZ": -29.736,
+      "maxZ": -24.7968,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "Kitchen refrigerator body",
+      "minX": 78.51599999999999,
+      "maxX": 83.98800000000001,
+      "minZ": -29.736,
+      "maxZ": -24.552000000000003,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "Kitchen west-facing shelving",
+      "minX": 47.664,
+      "maxX": 50.54400000000001,
+      "minZ": -29.736000000000004,
+      "maxZ": -16.776000000000003,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "cafe table",
+      "minX": 78.84,
+      "maxX": 85.75200000000001,
+      "minZ": -19.584000000000003,
+      "maxZ": -12.672000000000002,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "cafe chair",
+      "minX": 75.384,
+      "maxX": 78.552,
+      "minZ": -17.712000000000003,
+      "maxZ": -14.544,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "cafe chair",
+      "minX": 86.03999999999999,
+      "maxX": 89.20800000000001,
+      "minZ": -17.712000000000003,
+      "maxZ": -14.544,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "cafe chair",
+      "minX": 80.71199999999999,
+      "maxX": 83.88000000000001,
+      "minZ": -12.312,
+      "maxZ": -9.144,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "Kitchen dracaena planter",
+      "minX": 83.84400000000001,
+      "maxX": 86.07600000000001,
+      "minZ": -27.324,
+      "maxZ": -25.092000000000002,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "Kitchen continuous fridge back wall",
+      "minX": 51.12,
+      "maxX": 90.72,
+      "minZ": -30.744000000000003,
+      "maxZ": -29.736,
+      "zone": "Kitchen"
+    },
+    {
+      "name": "Outside restroom west notch",
+      "minX": 51.12,
+      "maxX": 64.44,
+      "minZ": 33.84,
+      "maxZ": 50.544
+    },
+    {
+      "name": "Outside extended restroom wing",
+      "minX": 64.44,
+      "maxX": 90.72,
+      "minZ": 47.519999999999996,
+      "maxZ": 50.544
+    },
+    {
+      "name": "Mens kitchen entrance wall",
+      "minX": 51.12,
+      "maxX": 51.80399999999999,
+      "minZ": -0.5040000000000001,
+      "maxZ": 0.5040000000000001,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage kitchen entrance wall",
+      "minX": 59.4,
+      "maxX": 63.86399999999998,
+      "minZ": -0.5040000000000001,
+      "maxZ": 0.5040000000000001,
+      "zone": "Storage"
+    },
+    {
+      "name": "Storage kitchen entrance wall",
+      "minX": 71.928,
+      "maxX": 82.44,
+      "minZ": -0.5040000000000001,
+      "maxZ": 0.5040000000000001,
+      "zone": "Storage"
+    },
+    {
+      "name": "Womens kitchen entrance wall",
+      "minX": 82.44,
+      "maxX": 82.728,
+      "minZ": -0.5040000000000001,
+      "maxZ": 0.5040000000000001,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens kitchen entrance wall",
+      "minX": 90.36,
+      "maxX": 90.72,
+      "minZ": -0.5040000000000001,
+      "maxZ": 0.5040000000000001,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage west return",
+      "minX": 58.896,
+      "maxX": 59.903999999999996,
+      "minZ": 8.573173203616119e-16,
+      "maxZ": 9.720000000000006,
+      "zone": "Storage"
+    },
+    {
+      "name": "Storage east return",
+      "minX": 81.93599999999999,
+      "maxX": 82.944,
+      "minZ": 8.573173203616119e-16,
+      "maxZ": 9.719999999999999,
+      "zone": "Storage"
+    },
+    {
+      "name": "Storage rear wall",
+      "minX": 59.4,
+      "maxX": 82.44,
+      "minZ": 9.216000000000001,
+      "maxZ": 10.224000000000002,
+      "zone": "Storage"
+    },
+    {
+      "name": "Restroom shared divide",
+      "minX": 71.49600000000001,
+      "maxX": 72.504,
+      "minZ": 9.720000000000002,
+      "maxZ": 33.84,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Restroom exterior step return",
+      "minX": 50.61599999999999,
+      "maxX": 51.623999999999995,
+      "minZ": 33.839999999999996,
+      "maxZ": 36.0,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Restroom mens vanity wall",
+      "minX": 51.11999999999999,
+      "maxX": 64.44,
+      "minZ": 33.336,
+      "maxZ": 34.344,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Restroom projecting cubicle west",
+      "minX": 63.936,
+      "maxX": 64.944,
+      "minZ": 33.84000000000001,
+      "maxZ": 47.519999999999996,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Restroom projecting cubicle south",
+      "minX": 64.44,
+      "maxX": 90.71999999999998,
+      "minZ": 47.016,
+      "maxZ": 48.024,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Restroom cubicle divide",
+      "minX": 76.17600000000002,
+      "maxX": 77.18400000000001,
+      "minZ": 33.84,
+      "maxZ": 47.519999999999996,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet wall",
+      "minX": 64.44,
+      "maxX": 64.87200000000001,
+      "minZ": 33.336,
+      "maxZ": 34.344,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet wall",
+      "minX": 71.64000000000001,
+      "maxX": 76.68,
+      "minZ": 33.336,
+      "maxZ": 34.344,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet wall",
+      "minX": 76.68,
+      "maxX": 80.568,
+      "minZ": 33.336,
+      "maxZ": 34.344,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet wall",
+      "minX": 87.48,
+      "maxX": 90.72,
+      "minZ": 33.336,
+      "maxZ": 34.344,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens vanity cabinet",
+      "minX": 51.98399999999999,
+      "maxX": 63.647999999999996,
+      "minZ": 29.736000000000004,
+      "maxZ": 33.336,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens small waste bin",
+      "minX": 64.044,
+      "maxX": 65.844,
+      "minZ": 30.564000000000007,
+      "maxZ": 32.508,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens vanity cabinet",
+      "minX": 86.688,
+      "maxX": 90.288,
+      "minZ": 17.711999999999993,
+      "maxZ": 29.375999999999994,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens small waste bin",
+      "minX": 87.51599999999999,
+      "maxX": 89.46000000000001,
+      "minZ": 29.771999999999995,
+      "maxZ": 31.571999999999992,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Sofa base",
+      "minX": 73.872,
+      "maxX": 80.064,
+      "minZ": 11.232000000000001,
+      "maxZ": 16.704,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens red settee base",
+      "minX": 72.57600000000001,
+      "maxX": 76.896,
+      "minZ": 18.215999999999998,
+      "maxZ": 28.872000000000003,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet fixture",
+      "minX": 70.2,
+      "maxX": 73.51200000000001,
+      "minZ": 41.25600000000001,
+      "maxZ": 46.583999999999996,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet fixture",
+      "minX": 84.384,
+      "maxX": 87.696,
+      "minZ": 41.25600000000001,
+      "maxZ": 46.583999999999996,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage wall shelving",
+      "minX": 78.768,
+      "maxX": 81.792,
+      "minZ": 1.4039999999999973,
+      "maxZ": 8.316000000000003,
+      "zone": "Storage"
+    },
+    {
+      "name": "Storage low paper cupboard",
+      "minX": 66.67200000000001,
+      "maxX": 75.60000000000001,
+      "minZ": 6.768,
+      "maxZ": 9.144,
+      "zone": "Storage"
+    },
+    {
+      "name": "Storage wastebasket",
+      "minX": 60.624,
+      "maxX": 62.496,
+      "minZ": 6.84,
+      "maxZ": 8.712,
+      "zone": "Storage"
+    },
+    {
+      "name": "Restroom annex continuous wall",
+      "minX": 90.216,
+      "maxX": 91.224,
+      "minZ": -0.5040000000000001,
+      "maxZ": 48.024,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Annex sealed restroom junction",
+      "minX": 90.432,
+      "maxX": 95.18400000000001,
+      "minZ": 11.016,
+      "maxZ": 12.024000000000001,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage kitchen entrance leaf collision 0",
+      "minX": 63.7172695940893,
+      "maxX": 64.63269816551788,
+      "minZ": 0.5808517792582578,
+      "maxZ": 1.4962803506868294,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage kitchen entrance leaf collision 1",
+      "minX": 63.90723735369648,
+      "maxX": 64.82266592512505,
+      "minZ": 1.1027839092033451,
+      "maxZ": 2.018212480631917,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage kitchen entrance leaf collision 2",
+      "minX": 64.09720511330364,
+      "maxX": 65.01263368473222,
+      "minZ": 1.6247160391484328,
+      "maxZ": 2.5401446105770042,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage kitchen entrance leaf collision 3",
+      "minX": 64.28717287291083,
+      "maxX": 65.2026014443394,
+      "minZ": 2.14664816909352,
+      "maxZ": 3.062076740522092,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage kitchen entrance leaf collision 4",
+      "minX": 64.47714063251799,
+      "maxX": 65.39256920394656,
+      "minZ": 2.668580299038608,
+      "maxZ": 3.584008870467179,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage kitchen entrance leaf collision 5",
+      "minX": 64.66710839212517,
+      "maxX": 65.58253696355374,
+      "minZ": 3.1905124289836952,
+      "maxZ": 4.105941000412267,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage kitchen entrance leaf collision 6",
+      "minX": 64.85707615173233,
+      "maxX": 65.7725047231609,
+      "minZ": 3.712444558928782,
+      "maxZ": 4.627873130357354,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage kitchen entrance leaf collision 7",
+      "minX": 65.04704391133951,
+      "maxX": 65.96247248276808,
+      "minZ": 4.234376688873869,
+      "maxZ": 5.149805260302442,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage kitchen entrance leaf collision 8",
+      "minX": 65.23701167094667,
+      "maxX": 66.15244024237525,
+      "minZ": 4.756308818818956,
+      "maxZ": 5.671737390247529,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage kitchen entrance leaf collision 9",
+      "minX": 65.42697943055384,
+      "maxX": 66.34240800198242,
+      "minZ": 5.278240948764045,
+      "maxZ": 6.193669520192617,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage kitchen entrance leaf collision 10",
+      "minX": 65.61694719016101,
+      "maxX": 66.53237576158959,
+      "minZ": 5.800173078709132,
+      "maxZ": 6.715601650137703,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage kitchen entrance leaf collision 11",
+      "minX": 65.80691494976818,
+      "maxX": 66.72234352119676,
+      "minZ": 6.322105208654219,
+      "maxZ": 7.2375337800827895,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage kitchen entrance leaf collision 12",
+      "minX": 65.99688270937537,
+      "maxX": 66.91231128080393,
+      "minZ": 6.844037338599307,
+      "maxZ": 7.759465910027879,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Storage kitchen entrance leaf collision 13",
+      "minX": 66.18685046898253,
+      "maxX": 67.1022790404111,
+      "minZ": 7.365969468544395,
+      "maxZ": 8.281398039972967,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens kitchen entrance leaf collision 0",
+      "minX": 89.58466354261824,
+      "maxX": 90.46923497118966,
+      "minZ": 0.5847628234168432,
+      "maxZ": 1.469334251988272,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens kitchen entrance leaf collision 1",
+      "minX": 89.42256205642613,
+      "maxX": 90.30713348499755,
+      "minZ": 1.083659898821958,
+      "maxZ": 1.9682313273933867,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens kitchen entrance leaf collision 2",
+      "minX": 89.26046057023402,
+      "maxX": 90.14503199880544,
+      "minZ": 1.582556974227073,
+      "maxZ": 2.467128402798502,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens kitchen entrance leaf collision 3",
+      "minX": 89.09835908404189,
+      "maxX": 89.98293051261332,
+      "minZ": 2.0814540496321876,
+      "maxZ": 2.9660254782036164,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens kitchen entrance leaf collision 4",
+      "minX": 88.93625759784977,
+      "maxX": 89.82082902642121,
+      "minZ": 2.580351125037303,
+      "maxZ": 3.464922553608732,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens kitchen entrance leaf collision 5",
+      "minX": 88.77415611165766,
+      "maxX": 89.6587275402291,
+      "minZ": 3.079248200442417,
+      "maxZ": 3.963819629013846,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens kitchen entrance leaf collision 6",
+      "minX": 88.61205462546555,
+      "maxX": 89.49662605403698,
+      "minZ": 3.578145275847533,
+      "maxZ": 4.462716704418961,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens kitchen entrance leaf collision 7",
+      "minX": 88.44995313927343,
+      "maxX": 89.33452456784487,
+      "minZ": 4.077042351252648,
+      "maxZ": 4.961613779824075,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens kitchen entrance leaf collision 8",
+      "minX": 88.28785165308132,
+      "maxX": 89.17242308165275,
+      "minZ": 4.5759394266577615,
+      "maxZ": 5.46051085522919,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens kitchen entrance leaf collision 9",
+      "minX": 88.1257501668892,
+      "maxX": 89.01032159546062,
+      "minZ": 5.074836502062878,
+      "maxZ": 5.959407930634306,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens kitchen entrance leaf collision 10",
+      "minX": 87.96364868069709,
+      "maxX": 88.84822010926851,
+      "minZ": 5.573733577467992,
+      "maxZ": 6.45830500603942,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens kitchen entrance leaf collision 11",
+      "minX": 87.80154719450498,
+      "maxX": 88.6861186230764,
+      "minZ": 6.072630652873108,
+      "maxZ": 6.957202081444535,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens kitchen entrance leaf collision 12",
+      "minX": 87.63944570831286,
+      "maxX": 88.52401713688428,
+      "minZ": 6.571527728278222,
+      "maxZ": 7.4560991568496515,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens kitchen entrance leaf collision 13",
+      "minX": 87.47734422212073,
+      "maxX": 88.36191565069217,
+      "minZ": 7.070424803683338,
+      "maxZ": 7.954996232254766,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet leaf collision 0",
+      "minX": 65.04750801118048,
+      "maxX": 65.87036515403763,
+      "minZ": 34.40062861298936,
+      "maxZ": 35.2234857558465,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet leaf collision 1",
+      "minX": 65.2133811763986,
+      "maxX": 66.03623831925574,
+      "minZ": 34.8327429818252,
+      "maxZ": 35.65560012468234,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet leaf collision 2",
+      "minX": 65.37925434161671,
+      "maxX": 66.20211148447385,
+      "minZ": 35.264857350661046,
+      "maxZ": 36.087714493518185,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet leaf collision 3",
+      "minX": 65.54512750683482,
+      "maxX": 66.36798464969196,
+      "minZ": 35.6969717194969,
+      "maxZ": 36.51982886235404,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet leaf collision 4",
+      "minX": 65.71100067205293,
+      "maxX": 66.53385781491006,
+      "minZ": 36.12908608833274,
+      "maxZ": 36.95194323118988,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet leaf collision 5",
+      "minX": 65.87687383727103,
+      "maxX": 66.69973098012818,
+      "minZ": 36.56120045716859,
+      "maxZ": 37.38405760002573,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet leaf collision 6",
+      "minX": 66.04274700248915,
+      "maxX": 66.8656041453463,
+      "minZ": 36.99331482600444,
+      "maxZ": 37.81617196886158,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet leaf collision 7",
+      "minX": 66.20862016770727,
+      "maxX": 67.0314773105644,
+      "minZ": 37.425429194840284,
+      "maxZ": 38.24828633769742,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet leaf collision 8",
+      "minX": 66.37449333292537,
+      "maxX": 67.19735047578251,
+      "minZ": 37.85754356367613,
+      "maxZ": 38.68040070653327,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet leaf collision 9",
+      "minX": 66.54036649814348,
+      "maxX": 67.36322364100062,
+      "minZ": 38.289657932511986,
+      "maxZ": 39.112515075369124,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet leaf collision 10",
+      "minX": 66.70623966336159,
+      "maxX": 67.52909680621873,
+      "minZ": 38.721772301347826,
+      "maxZ": 39.544629444204965,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet leaf collision 11",
+      "minX": 66.8721128285797,
+      "maxX": 67.69496997143685,
+      "minZ": 39.15388667018368,
+      "maxZ": 39.97674381304082,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet leaf collision 12",
+      "minX": 67.03798599379782,
+      "maxX": 67.86084313665495,
+      "minZ": 39.58600103901953,
+      "maxZ": 40.40885818187667,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens toilet leaf collision 13",
+      "minX": 67.20385915901592,
+      "maxX": 68.02671630187307,
+      "minZ": 40.01811540785537,
+      "maxZ": 40.84097255071251,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet leaf collision 0",
+      "minX": 80.59620818920672,
+      "maxX": 81.42935104634958,
+      "minZ": 34.40028702661134,
+      "maxZ": 35.2334298837542,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet leaf collision 1",
+      "minX": 80.765767424763,
+      "maxX": 81.59891028190586,
+      "minZ": 34.842003936976866,
+      "maxZ": 35.67514679411973,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet leaf collision 2",
+      "minX": 80.9353266603193,
+      "maxX": 81.76846951746217,
+      "minZ": 35.2837208473424,
+      "maxZ": 36.11686370448526,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet leaf collision 3",
+      "minX": 81.10488589587558,
+      "maxX": 81.93802875301846,
+      "minZ": 35.72543775770793,
+      "maxZ": 36.5585806148508,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet leaf collision 4",
+      "minX": 81.27444513143188,
+      "maxX": 82.10758798857474,
+      "minZ": 36.16715466807347,
+      "maxZ": 37.00029752521633,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet leaf collision 5",
+      "minX": 81.44400436698817,
+      "maxX": 82.27714722413104,
+      "minZ": 36.608871578439,
+      "maxZ": 37.44201443558187,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet leaf collision 6",
+      "minX": 81.61356360254446,
+      "maxX": 82.44670645968732,
+      "minZ": 37.050588488804536,
+      "maxZ": 37.883731345947396,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet leaf collision 7",
+      "minX": 81.78312283810075,
+      "maxX": 82.61626569524361,
+      "minZ": 37.492305399170064,
+      "maxZ": 38.32544825631293,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet leaf collision 8",
+      "minX": 81.95268207365704,
+      "maxX": 82.7858249307999,
+      "minZ": 37.9340223095356,
+      "maxZ": 38.76716516667846,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet leaf collision 9",
+      "minX": 82.12224130921334,
+      "maxX": 82.9553841663562,
+      "minZ": 38.375739219901135,
+      "maxZ": 39.208882077044,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet leaf collision 10",
+      "minX": 82.29180054476961,
+      "maxX": 83.12494340191249,
+      "minZ": 38.81745613026667,
+      "maxZ": 39.65059898740953,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet leaf collision 11",
+      "minX": 82.46135978032592,
+      "maxX": 83.29450263746878,
+      "minZ": 39.2591730406322,
+      "maxZ": 40.092315897775066,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet leaf collision 12",
+      "minX": 82.6309190158822,
+      "maxX": 83.46406187302507,
+      "minZ": 39.700889950997734,
+      "maxZ": 40.534032808140594,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Womens toilet leaf collision 13",
+      "minX": 82.80047825143849,
+      "maxX": 83.63362110858135,
+      "minZ": 40.14260686136326,
+      "maxZ": 40.97574971850613,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Restroom continuous sales wall",
+      "minX": 50.616,
+      "maxX": 51.623999999999995,
+      "minZ": 7.074566258262489e-15,
+      "maxZ": 33.839999999999996,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens kitchen entrance leaf collision 0",
+      "minX": 58.20428571428571,
+      "maxX": 59.08371428571429,
+      "minZ": 0.5975999999999999,
+      "maxZ": 1.4770285714285716,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens kitchen entrance leaf collision 1",
+      "minX": 58.20428571428571,
+      "maxX": 59.08371428571429,
+      "minZ": 1.1170285714285713,
+      "maxZ": 1.9964571428571427,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens kitchen entrance leaf collision 2",
+      "minX": 58.20428571428571,
+      "maxX": 59.08371428571429,
+      "minZ": 1.6364571428571428,
+      "maxZ": 2.5158857142857145,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens kitchen entrance leaf collision 3",
+      "minX": 58.20428571428571,
+      "maxX": 59.08371428571429,
+      "minZ": 2.155885714285714,
+      "maxZ": 3.0353142857142856,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens kitchen entrance leaf collision 4",
+      "minX": 58.20428571428571,
+      "maxX": 59.08371428571429,
+      "minZ": 2.675314285714286,
+      "maxZ": 3.554742857142857,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens kitchen entrance leaf collision 5",
+      "minX": 58.20428571428571,
+      "maxX": 59.08371428571429,
+      "minZ": 3.1947428571428573,
+      "maxZ": 4.074171428571429,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens kitchen entrance leaf collision 6",
+      "minX": 58.20428571428571,
+      "maxX": 59.08371428571429,
+      "minZ": 3.714171428571429,
+      "maxZ": 4.5936,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens kitchen entrance leaf collision 7",
+      "minX": 58.20428571428571,
+      "maxX": 59.08371428571429,
+      "minZ": 4.2336,
+      "maxZ": 5.113028571428571,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens kitchen entrance leaf collision 8",
+      "minX": 58.20428571428571,
+      "maxX": 59.08371428571429,
+      "minZ": 4.753028571428572,
+      "maxZ": 5.632457142857143,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens kitchen entrance leaf collision 9",
+      "minX": 58.20428571428571,
+      "maxX": 59.08371428571429,
+      "minZ": 5.272457142857143,
+      "maxZ": 6.151885714285714,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens kitchen entrance leaf collision 10",
+      "minX": 58.20428571428571,
+      "maxX": 59.08371428571429,
+      "minZ": 5.791885714285715,
+      "maxZ": 6.671314285714286,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens kitchen entrance leaf collision 11",
+      "minX": 58.20428571428571,
+      "maxX": 59.08371428571429,
+      "minZ": 6.311314285714285,
+      "maxZ": 7.190742857142857,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens kitchen entrance leaf collision 12",
+      "minX": 58.20428571428571,
+      "maxX": 59.08371428571429,
+      "minZ": 6.830742857142857,
+      "maxZ": 7.71017142857143,
+      "zone": "Restrooms"
+    },
+    {
+      "name": "Mens kitchen entrance leaf collision 13",
+      "minX": 58.20428571428571,
+      "maxX": 59.08371428571429,
+      "minZ": 7.3501714285714295,
+      "maxZ": 8.229600000000001,
+      "zone": "Restrooms"
+    }
+  ],
+  "landmarks": [
+    {
+      "id": "accounting",
+      "name": "Accounting",
+      "yaw": 1.5707963267948966,
+      "area": {
+        "minX": -43.2,
+        "maxX": 0,
+        "minZ": 14.04,
+        "maxZ": 50.544
+      },
+      "position": [
+        -9.72,
+        6.827999999999999,
+        31.463999999999995
+      ]
+    },
+    {
+      "id": "reception",
+      "name": "Reception",
+      "yaw": -2.08,
+      "area": {
+        "minX": -49.68000000000001,
+        "maxX": -12.6,
+        "minZ": -64.8,
+        "maxZ": 22.32
+      },
+      "position": [
+        -15.120000000000001,
+        6.827999999999999,
+        -16.2
+      ]
+    },
+    {
+      "id": "bullpen",
+      "name": "Sales bullpen",
+      "yaw": 1.5707963267948966,
+      "area": {
+        "minX": -12.6,
+        "maxX": 51.12,
+        "minZ": -30.240000000000002,
+        "maxZ": 44.64
+      },
+      "position": [
+        12.24,
+        6.827999999999999,
+        4.68
+      ]
+    },
+    {
+      "id": "michael",
+      "name": "Michael\u2019s office",
+      "yaw": 0.45,
+      "area": {
+        "minX": -28.8,
+        "maxX": 3.24,
+        "minZ": -64.8,
+        "maxZ": -30.240000000000002
+      },
+      "position": [
+        -3.9600000000000004,
+        6.827999999999999,
+        -37.080000000000005
+      ]
+    },
+    {
+      "id": "conference",
+      "name": "Conference room",
+      "yaw": -1.15,
+      "area": {
+        "minX": 3.24,
+        "maxX": 43.2,
+        "minZ": -64.8,
+        "maxZ": -30.240000000000002
+      },
+      "position": [
+        8.712,
+        6.827999999999999,
+        -37.440000000000005
+      ]
+    },
+    {
+      "id": "kitchen",
+      "name": "Kitchen",
+      "yaw": -0.18,
+      "area": {
+        "minX": 51.12,
+        "maxX": 90.72,
+        "minZ": -30.240000000000002,
+        "maxZ": 0.0
+      },
+      "position": [
+        63.144,
+        6.827999999999999,
+        -12.24
+      ]
+    },
+    {
+      "id": "annex",
+      "name": "The annex",
+      "yaw": -1.2,
+      "area": {
+        "minX": 90.72,
+        "maxX": 136.08,
+        "minZ": -30.240000000000002,
+        "maxZ": 28.8
+      },
+      "position": [
+        95.4,
+        6.827999999999999,
+        -8.28
+      ]
+    },
+    {
+      "id": "break",
+      "name": "Break room",
+      "yaw": -1.0,
+      "area": {
+        "minX": 97.2,
+        "maxX": 136.08,
+        "minZ": -64.8,
+        "maxZ": -30.240000000000002
+      },
+      "position": [
+        105.12,
+        6.827999999999999,
+        -37.440000000000005
+      ]
+    },
+    {
+      "id": "foyer",
+      "name": "Annex foyer",
+      "yaw": -0.3,
+      "area": {
+        "minX": 83.88000000000001,
+        "maxX": 97.2,
+        "minZ": -64.8,
+        "maxZ": -30.240000000000002
+      },
+      "position": [
+        88.92,
+        6.827999999999999,
+        -38.519999999999996
+      ]
+    },
+    {
+      "id": "storage",
+      "name": "Supply storage",
+      "position": [
+        70.56,
+        6.827999999999999,
+        3.9600000000000004
+      ],
+      "yaw": -1.1,
+      "area": {
+        "minX": 59.4,
+        "maxX": 82.44,
+        "minZ": 0,
+        "maxZ": 9.72
+      }
+    },
+    {
+      "id": "restrooms",
+      "name": "Restrooms",
+      "yaw": -1.1,
+      "area": {
+        "minX": 51.12,
+        "maxX": 90.72,
+        "minZ": 0,
+        "maxZ": 47.519999999999996
+      },
+      "position": [
+        61.56000000000001,
+        6.827999999999999,
+        18.36
+      ]
+    },
+    {
+      "id": "lobby",
+      "name": "Elevator lobby",
+      "yaw": 1.5707963267948966,
+      "area": {
+        "minX": -100.8,
+        "maxX": -43.2,
+        "minZ": -64.8,
+        "maxZ": -28.8
+      },
+      "position": [
+        -58.32,
+        6.827999999999999,
+        -52.56
+      ]
+    }
+  ],
+  "spawn": "reception",
+  "deskReturn": {
+    "position": [
+      12.24,
+      6.827999999999999,
+      4.68
+    ],
+    "yaw": 1.5707963267948966
+  },
+  "deskInteraction": {
+    "x": 12.24,
+    "z": 4.68,
+    "radius": 12.6
+  },
+  "workstation": {
+    "position": [
+      -0.21600000000000008,
+      0,
+      -0.3600000000000003
+    ],
+    "rotation": 1.5707963267948966,
+    "scale": 0.82,
+    "deskHalfDepth": 3.68
+  }
+}
