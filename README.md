@@ -1,3 +1,5 @@
+![The Office reception and Scranton bullpen](docs/images/reception.png)
+
 # TheOffice
 
 A walkable Three.js fan recreation of the Scranton office, with interactive jelly-covered desk props, a working elevator, and a ground-floor lobby and parking lot.
@@ -17,16 +19,6 @@ npm run dev
 Open http://127.0.0.1:5173/. The asset gallery is at http://127.0.0.1:5173/assets.html.
 
 The setup command downloads the 147 MB office model from the pinned GitHub release and verifies its SHA-256 checksum. Other runtime assets are included in the repository. Blender is not required to run the game. Editable Blender sources are available in [release v1.0.0](https://github.com/itssotsot/TheOffice/releases/tag/v1.0.0); this repository does not include the historical modeling pipeline or reference-image archive.
-
-## Controls
-
-- WASD or up/down arrows: walk. Space also moves forward; Shift moves faster.
-- Move the mouse to look around; left/right arrows turn.
-- Drag nearby jelly props to lift them, then release to throw. Scroll while holding to change lift height.
-- R resets the desk; 1–7 select props. Click Dwight’s bobblehead to make it bob.
-- Click the elevator call button, walk inside, then press G for the ground floor or 2 for the office.
-
-Try `/?visit=lobby`, `/?visit=ground-lobby`, or `/?visit=parking` for alternative starting locations.
 
 ## Validate and build
 
