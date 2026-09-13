@@ -7,7 +7,7 @@ A walkable Three.js fan recreation of the Scranton office, with interactive jell
 Requires Node.js 22.12 or newer and npm.
 
 ```sh
-git clone https://github.com/Samigos/TheOffice.git
+git clone https://github.com/itssotsot/TheOffice.git
 cd TheOffice
 npm ci
 npm run setup:assets
@@ -16,7 +16,7 @@ npm run dev
 
 Open http://127.0.0.1:5173/. The asset gallery is at http://127.0.0.1:5173/assets.html.
 
-The setup command downloads the 147 MB office model from the pinned GitHub release and verifies its SHA-256 checksum. Other runtime assets are included in the repository. Blender is not required to run the game. Editable Blender sources are available in [release v1.0.0](https://github.com/Samigos/TheOffice/releases/tag/v1.0.0); this repository does not include the historical modeling pipeline or reference-image archive.
+The setup command downloads the 147 MB office model from the pinned GitHub release and verifies its SHA-256 checksum. Other runtime assets are included in the repository. Blender is not required to run the game. Editable Blender sources are available in [release v1.0.0](https://github.com/itssotsot/TheOffice/releases/tag/v1.0.0); this repository does not include the historical modeling pipeline or reference-image archive.
 
 ## Controls
 
